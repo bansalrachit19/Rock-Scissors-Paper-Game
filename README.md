@@ -1,6 +1,6 @@
 # Rock-Paper-Scissors Game
 
-A simple, interactive Rock-Paper-Scissors game implemented in HTML, CSS and JAVASCRIPT. This project demonstrates basic game mechanics, user input handling, and randomization.
+A simple, interactive Rock-Paper-Scissors game implemented in HTML, CSS and JAVASCRIPT. This project demonstrates basic game mechanics, user input handling, and randomization. https://bansalrachit19.github.io/Rock-Scissors-Paper-Game/
 
 ## Features
 - Play against the computer
